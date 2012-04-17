@@ -1,0 +1,12 @@
+82.99.21.199.in-addr.arpa domain name pointer spider-199-21-99-82.yandex.com.
+28.241.200.193.in-addr.arpa domain name pointer 28.241.200.193.static.giga-dns.com.
+49.71.125.123.in-addr.arpa domain name pointer baiduspider-123-125-71-49.crawl.baidu.com.
+112.71.125.123.in-addr.arpa domain name pointer baiduspider-123-125-71-112.crawl.baidu.com.
+Host 237.237.231.116.in-addr.arpa. not found: 3(NXDOMAIN)
+48.254.178.99.in-addr.arpa domain name pointer 99-178-254-48.lightspeed.stlsmo.sbcglobal.net.
+51.202.236.98.in-addr.arpa domain name pointer c-98-236-202-51.hsd1.pa.comcast.net.
+244.151.108.95.in-addr.arpa domain name pointer sticker01.yandex.ru.
+163.68.249.66.in-addr.arpa domain name pointer crawl-66-249-68-163.googlebot.com.
+57.67.249.66.in-addr.arpa domain name pointer crawl-66-249-67-57.googlebot.com.
+Host 34.178.246.64.in-addr.arpa. not found: 3(NXDOMAIN)
+44.70.229.38.in-addr.arpa domain name pointer dnsresearch.dnsdigger.com.
