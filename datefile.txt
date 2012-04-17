@@ -1,0 +1,2 @@
+short month - apr - date +%b
+
