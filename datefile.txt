@@ -1,2 +1,15 @@
-short month - apr - date +%b
+short month - apr        - date +%b
+4 digit yr  - 2012      - date +%Y
+long mon    - April     - date +%B
+num date    - 17        - date +%d
+hour        - 07        - date +%H
+minute      - 02        - date +%M
+nanosecond  - 313113071 - date +%N
+
+
+
+
+
+[7:00]:`date +%Y`-`date +%B`-`date +%d`-`date +%H`-`date +%M`-`date +%N`
+zsh: command not found: 2012-April-17-07-00-313113071
 
